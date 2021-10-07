@@ -1,0 +1,32 @@
+{
+    "ethereum": {
+        "nickname": "Ethereum Mainnet",
+        "blockExplorerUrl": "https://etherscan.io",
+        "rpcUrl": "https://mainnet.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+        "currency": "ETH"
+    },
+    "bsc": {
+        "nickname": "BSC",
+        "blockExplorerUrl": "https://bscscan.com",
+        "rpcUrl": "https://bsc-dataseed.binance.org/",
+        "currency": "BNB"
+    },
+    "oec": {
+        "nickname": "OKExChain Mainnet",
+        "blockExplorerUrl": "https://www.oklink.com/okexchain",
+        "rpcUrl": "https://exchainrpc.okex.org",
+        "currency": "OKT"
+    },
+    "matic": {
+        "nickname": "Matic(Polygon) Mainnet",
+        "blockExplorerUrl": "https://polygonscan.com",
+        "rpcUrl": "https://rpc-mainnet.matic.network",
+        "currency": "MATIC"
+    },
+    "fantom": {
+        "nickname": "Fantom",
+        "blockExplorerUrl": "https://ftmscan.com",
+        "rpcUrl": "https://rpc.neist.io/",
+        "currency": "FTM"
+    }
+}
