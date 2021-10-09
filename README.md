@@ -1,4 +1,4 @@
-# Ethereum-multiple-operations-by-Python
+# Ethereum_Script
 通过python实现Ethereum以及类似网络下的批量操作，包括主网货币转账、合约交互
 ## 1、generation
 生成账户，账户包括序号、地址、私钥三个属性
